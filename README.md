@@ -4,7 +4,7 @@ I'm an incoming second-year at Soka University of America—an economics girl wh
 
 ---
 
-## 🧠 (Fun Facts) about me
+## 🧠 (Fun Facts) About Me
 
 - Born and raised in **Vietnam** 🇻🇳 — where my journey began and my dreams took flight!
 - I started in **chemistry** 🧪🧬, explored **finance** 💸📈, and found my spark in **data analytics** and **business intelligence** 📊💻✨.
