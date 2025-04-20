@@ -1,4 +1,4 @@
-# 👩‍💻🌻 Hi there! I’m Uyen Pham [She/her/hers]
+# 👩‍💻🌻 Hi there! I’m Uyen Pham
 
 I'm an incoming second-year at Soka University of America—an economics girl who fell in love with coding. I self-learned everything from scratch, driven by a passion for data and a mission to help businesses grow smarter.
 
