@@ -17,7 +17,7 @@ I'm an incoming second-year at Soka University of America—an economics girl wh
 
 ## 📊 Projects
 
-I've worked on several projects using different tools like Python, SQL, and Tableau—which you can explore here!👩‍💻
+I've worked on several projects using different tools like Python, SQL, and Tableau—which you can explore [here](https://github.com/uyenp30/Projects.git)!👩‍💻
 
 In case you're short on time, these are a few of my favorite ones ✨👇
 
