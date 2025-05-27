@@ -22,7 +22,7 @@ I've worked on several projects using different tools like Python, SQL, and Tabl
 In case you're short on time, these are a few of my favorite ones ✨👇
 
 | 💼 Project | 💡 Skills & Focus Area | 📝 Description |
-|-----------|----------------|----------------|
+|:-----------:|:----------------:|----------------|
 | [Customer Churn](https://github.com/uyenp30/Telco_Customer_Churn)| Classification, Feature Importance, Churn Analysis | Predicted customer churn using ML models and derived actionable insights for business retention |
 | (Coming) | ... | Short 1-line summary |
 | (Coming) | ... | Short 1-line summary |
