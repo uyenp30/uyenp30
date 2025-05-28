@@ -8,7 +8,7 @@ I'm an incoming sophomore at Soka University of America and an economics girl wh
 
 - Born and raised in **Vietnam** 🇻🇳 — where my journey began and my dreams took flight!
 - I started in **chemistry** 🧪🧬, explored **finance** 💸📈, and found my spark in **data analytics** and **business intelligence** 📊💻✨.
-- I take at least one **math class every semester** 🧠➕➖✖️➗ - just finished *Linear Algebra* and *Differential Equations* and moving on to *Real Analysis* next September.
+- I take at least one **math class every semester** 🧠➕➖✖️➗ - just finished *Linear Algebra* and *Differential Equations* and will move on to *Real Analysis* next September.
 - I play the **piano** 🎹, **guitar** 🎸, **drums** 🥁, and I **sing** 🎤 too!
 
 *I'm on a mission to blend logic, creativity, and data (and melody) at a time.* 🌻
