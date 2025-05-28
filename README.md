@@ -33,12 +33,12 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 
 ## 💡 Skills
 
-🧠 Machine Learning (e.g., Regression, Random Forest, XGBoost)  
-🧹 Data Cleaning & Preprocessing  
-📊 Exploratory Data Analysis (EDA)  
-🧮 Feature Engineering  
-📈 Model Evaluation (e.g., Accuracy rate, F1-score, ROC-AUC)  
-💼 Business Intelligence & Insight Communication
+- 🧠 Machine Learning (e.g., Regression, Random Forest, XGBoost)  
+- 🧹 Data Cleaning & Preprocessing  
+- 📊 Exploratory Data Analysis (EDA)  
+- 🧮 Feature Engineering  
+- 📈 Model Evaluation (e.g., Accuracy rate, F1-score, ROC-AUC)  
+- 💼 Business Intelligence & Insight Communication
 
 ---
 
