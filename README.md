@@ -33,7 +33,16 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 
 ## 💡 Skills
 
-## 🧰 Tools & Technologies
+🧠 Machine Learning (e.g., Regression, Random Forest, XGBoost)  
+🧹 Data Cleaning & Preprocessing  
+📊 Exploratory Data Analysis (EDA)  
+🧮 Feature Engineering  
+📈 Model Evaluation (e.g., Accuracy rate, F1-score, ROC-AUC)  
+💼 Business Intelligence & Insight Communication
+
+---
+
+## 🧰 Tools & Techs
 
 ### Languages & Databases:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
