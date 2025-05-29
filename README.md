@@ -24,7 +24,7 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 | 💼 Project | 💡 Skills & Focus Area | 📝 Description |
 |:-----------:|:----------------:|----------------|
 | [Customer Churn](https://github.com/uyenp30/Telco_Customer_Churn)| Classification, Feature Importance, Churn Analysis | Predicted customer churn using ML models and derived actionable insights for business retention |
-| (Coming) | ... | Short 1-line summary |
+| [Coffee Shop Sales](https://github.com/uyenp30/Coffee-Shop-Sales) |Excel Dashboard, Sales Trends, Product Insights | Built an interactive dashboard to analyze item performance, customer favorites, and sales trends across store locations |
 | (Coming) | ... | Short 1-line summary |
 
 > ✨ *More projects coming soon!*
