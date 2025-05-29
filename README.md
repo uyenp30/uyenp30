@@ -37,8 +37,10 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 - 🧹 Data Cleaning & Preprocessing  
 - 📊 Exploratory Data Analysis (EDA)  
 - 🧮 Feature Engineering  
-- 📈 Model Evaluation (e.g., Accuracy rate, F1-score, ROC-AUC)  
-- 💼 Business Intelligence & Insight Communication
+- 📈 Model Evaluation (Accuracy, F1-score, ROC-AUC)  
+- 🎨 Data Visualization (Seaborn, Matplotlib, Tableau, Excel)  
+- 📋 Dashboard Design & Interactivity (Power Query, Pivot Tables)  
+- 💼 Business Intelligence & Insight Communication  
 
 ---
 
@@ -59,6 +61,8 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 ### Data Visualization & BI Tools:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D6EB5?style=for-the-badge&logo=seaborn&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pivot Table](https://img.shields.io/badge/Pivot%20Table-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
