@@ -74,7 +74,7 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 
 - 📍 Location: Aliso Viejo, California
 - 💌 Email: phamlanuyen30@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/uyen-pham-sua/
+- 💼 LinkedIn: https://www.linkedin.com/in/uyen-pham-data/
 
 ---
 
