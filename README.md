@@ -25,7 +25,8 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 |:-----------:|:----------------:|----------------|
 | [Customer Churn](https://github.com/uyenp30/Telco_Customer_Churn)| Classification, Feature Importance, Churn Analysis | Predicted customer churn using ML models and derived actionable insights for business retention |
 | [Coffee Shop Sales](https://github.com/uyenp30/Coffee-Shop-Sales) |Excel Dashboard, Sales Trends, Product Insights | Built an interactive dashboard to analyze item performance, customer favorites, and sales trends across store locations |
-| [Loan Default](https://github.com/uyenp30/Loan_Default) | Credit Risk Modeling, Classification, XGBoost | Predicted loan default likelihood using financial data, helping lenders assess borrower risk and reduce losses |
+| [E-Commerce Customer Analysis](https://github.com/uyenp30/E-commerce_Customer_Analysis) | Advanced SQL, Customer Segmentation, RFM, CLV, Tableau | Segmented e-commerce customers using RFM and Cohort analysis, delivering actionable marketing insights via a Tableau dashboard. |
+| [Loan Default](https://github.com/uyenp30/Loan_Default) _(In progress)_ | Credit Risk Modeling, Classification, XGBoost | Predicted loan default likelihood using financial data, helping lenders assess borrower risk and reduce losses |
 
 > ✨ *More projects coming soon!*
 
