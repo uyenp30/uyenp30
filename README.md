@@ -1,17 +1,17 @@
 # 👩‍💻🌻 Hi there! I’m Uyen Pham
 
-I'm a sophomore at Soka University of America and an economics girl who fell in love with coding. I self-learned everything from scratch, driven by a passion for data and a mission to help businesses grow smarter.
+I am a data-driven problem solver studying **Economics and Data Science** at Soka University of America. I specialize in the intersection of quantitative analysis and business strategy—building predictive models and interactive dashboards to translate messy datasets into actionable insights that drive revenue, mitigate risk, and optimize operations.
 
 ---
 
 ## 🧠 (Fun Facts) About Me
 
-- Born and raised in **Vietnam** 🇻🇳 — where my journey began and my dreams took flight!
-- I started in **chemistry** 🧪🧬, explored **finance** 💸📈, and found my spark in **data analytics** and **business intelligence** 📊💻✨.
-- I take at least one **math class every semester** 🧠➕➖✖️➗ - just finished *Linear Algebra* and *Differential Equations* and am learning *Real Analysis* this semester.
-- I play the **piano** 🎹, **guitar** 🎸, **drums** 🥁, and I **sing** 🎤 too!
+- 🇻🇳 **Roots:** Born and raised in Vietnam, now studying and building models in California!
+- 🔄 **The Pivot:** My academic journey started in **Chemistry** 🧪, explored **Economics Theory** 📈, and ultimately found its new home in **Data Science & BI** 📊.
+- 🧮 **Math Enthusiast:** I voluntarily take at least one heavy math class every semester. I've conquered *Linear Algebra*, *Differential Equations*, *Probability & Statistics*, and *Real Analysis*. Currently, I'm tackling *Calculus 3* and gearing up for *Discrete Math* and *Stochastic Calculus*.
+- 🎹 **Off-Screen:** When I'm not debugging Python or writing SQL, I'm a multi-instrumentalist. I play the piano, guitar, drums, and sing—music is my ultimate creative outlet 🎶.
 
-*I'm on a mission to blend logic, creativity, and data (and melody) at a time.* 🌻
+*I'm on a mission to blend quantitative logic, creative problem-solving, and a little bit of melody.* 🌻
 
 ---
 
@@ -23,7 +23,7 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 
 | 💼 Project | 💡 Skills & Focus Area | 📝 Description |
 |:-----------:|:----------------:|----------------|
-| [Tokyo House Prices Prediction](https://github.com/uyenp30/Tokyo_House_Price_Prediction) | Kaggle Competition, Feature Engineering, Regression, sklearn Pipeline | Achieved **2nd place (out of 19 teams)** in an EDA-focused Kaggle competition by applying advanced feature engineering to a linear regression model |
+| [Tokyo House Prices Prediction](https://github.com/uyenp30/Tokyo_House_Price_Prediction) | Kaggle Competition, Feature Engineering, Regression, sklearn Pipeline | Achieved **2nd place** in an EDA-focused Kaggle competition by applying advanced feature engineering to a linear regression model |
 | [Customer Churn](https://github.com/uyenp30/Telco_Customer_Churn)| Classification, Feature Importance, Churn Analysis | Predicted customer churn using ML models and derived actionable insights for business retention |
 | [Coffee Shop Sales](https://github.com/uyenp30/Coffee-Shop-Sales) |Excel Dashboard, Sales Trends, Product Insights | Built an interactive dashboard to analyze item performance, customer favorites, and sales trends across store locations |
 | [E-Commerce Customer Analysis](https://github.com/uyenp30/E-commerce_Customer_Analysis) | Advanced SQL, Customer Segmentation, RFM, CLV, Tableau | Segmented e-commerce customers using RFM and Cohort analysis, delivering actionable marketing insights via a Tableau dashboard. |
