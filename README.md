@@ -4,12 +4,12 @@ I am a data-driven problem solver studying **Economics and Data Science** at Sok
 
 ---
 
-## 🧠 (Fun Facts) About Me
+## 🧠 About Me
 
-- 🇻🇳 **Roots:** Born and raised in Vietnam, now studying and building models in California!
-- 🔄 **The Pivot:** My academic journey started in **Chemistry** 🧪, explored **Economics Theory** 📈, and ultimately found its new home in **Data Science & BI** 📊.
-- 🧮 **Math Enthusiast:** I voluntarily take at least one heavy math class every semester. I've conquered *Linear Algebra*, *Differential Equations*, *Probability & Statistics*, and *Real Analysis*. Currently, I'm tackling *Calculus 3* and gearing up for *Discrete Math* and *Stochastic Calculus*.
-- 🎹 **Off-Screen:** When I'm not debugging Python or writing SQL, I'm a multi-instrumentalist. I play the piano, guitar, drums, and sing—music is my ultimate creative outlet 🎶.
+- 🇻🇳 Born and raised in Vietnam, now studying and building models in California!
+- 🔄 My academic journey started in **Chemistry** 🧪, explored **Economics Theory** 📈, and ultimately found its new home in **Data Science & BI** 📊.
+- 🧮 I voluntarily take rigorous math courses to strengthen my analytical reasoning. I have completed *Intro to Data Science*, *Calculus I-III*, *Linear Algebra*, *Differential Equations*, *Probability & Statistics*, and *Real Analysis*. Next up: *Discrete Math*.
+- 🎹 When I'm not debugging Python or writing SQL, I'm a multi-instrumentalist. I play the piano, guitar, drums, and sing—music is my ultimate creative outlet 🎶.
 
 *I'm on a mission to blend quantitative logic, creative problem-solving, and a little bit of melody.* 🌻
 
@@ -28,20 +28,17 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 | [Coffee Shop Sales](https://github.com/uyenp30/Coffee-Shop-Sales) |Excel Dashboard, Sales Trends, Product Insights | Built an interactive dashboard to analyze item performance, customer favorites, and sales trends across store locations |
 | [E-Commerce Customer Analysis](https://github.com/uyenp30/E-commerce_Customer_Analysis) | Advanced SQL, Customer Segmentation, RFM, CLV, Tableau | Segmented e-commerce customers using RFM and Cohort analysis, delivering actionable marketing insights via a Tableau dashboard. |
 
-> ✨ *More projects coming soon!*
+> ✨ *More financial modeling and strategy projects coming soon!*
 
 ---
 
 ## 💡 Skills
 
-- 🧠 Machine Learning (e.g., Regression, Random Forest, XGBoost)  
-- 🧹 Data Cleaning & Preprocessing  
-- 📊 Exploratory Data Analysis - EDA
-- 🧮 Feature Engineering  
-- 📈 Model Evaluation (Accuracy, F1-score, ROC-AUC)  
-- 🎨 Data Visualization (Seaborn, Matplotlib, PowerBI, Tableau, Excel)  
-- 📋 Dashboard Design & Interactivity (Power Query, Pivot Tables)  
-- 💼 Business Intelligence & Insight Communication  
+- 🧠 **Predictive Modeling:** Regression, Classification (Random Forest, XGBoost)
+- 🧹 **Data Engineering:** Data Cleaning, Preprocessing, Feature Engineering, EDA
+- 📊 **Business Intelligence (BI):** Dashboard Design, KPI Tracking, Customer Segmentation (RFM, CLV)
+- 📈 **Digital Marketing & Strategy:** Web Analytics, SEO, Campaign Optimization, Funnel Tracking
+- 💼 **Business Acumen:** Insight Communication, Executive Reporting, Cross-functional Collaboration
 
 ---
 
@@ -52,7 +49,6 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Libraries & Frameworks:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -60,20 +56,19 @@ In case you're short on time, these are a few of my favorite ones ✨👇
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### Data Visualization & BI Tools:
+### Business Intelligence & Marketing Analytics:
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2D6EB5?style=for-the-badge&logo=seaborn&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pivot Table](https://img.shields.io/badge/Pivot%20Table-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-F4B400?style=for-the-badge&logo=google-ads&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_&_Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect!
 
-- 📍 Location: Aliso Viejo, California
+- 📍 Location: Aliso Viejo, California | Hanoi, Vietnam
 - 💌 Email: phamlanuyen30@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/uyen-pham-data/
 
