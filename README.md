@@ -8,8 +8,8 @@ I am a data-driven problem solver studying **Economics and Data Science** at Sok
 
 - 🇻🇳 Born and raised in Vietnam, now studying and building models in California!
 - 🔄 My academic journey started in **Chemistry** 🧪, explored **Economics Theory** 📈, and ultimately found its new home in **Data Science & BI** 📊.
-- 🧮 I voluntarily take rigorous math courses to strengthen my analytical reasoning. I have completed *Intro to Data Science*, *Calculus I-III*, *Linear Algebra*, *Differential Equations*, *Probability & Statistics*, and *Real Analysis*. Next up: *Discrete Math*.
-- 🎹 When I'm not debugging Python or writing SQL, I'm a multi-instrumentalist. I play the piano, guitar, drums, and sing—music is my ultimate creative outlet 🎶.
+- 🧮 I voluntarily take rigorous math courses to strengthen my analytical reasoning. I have completed Intro to Data Science, Calculus I-III, Linear Algebra, Differential Equations, Probability & Statistics, and Real Analysis. Next up: **Discrete Math**.
+- 🎹 When I'm not debugging Python or writing SQL, I'm a multi-instrumentalist. I play the piano, guitar, bass, drums, and sing 🎶.
 
 *I'm on a mission to blend quantitative logic, creative problem-solving, and a little bit of melody.* 🌻
 
