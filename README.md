@@ -17,7 +17,7 @@ I am a data-driven problem solver studying **Economics and Data Science** at Sok
 
 ## 📊 Projects
 
-I've worked on several projects using different tools like **Python, Excel, SQL, R, PowerBI, and Tableau**—which you can explore [here](https://github.com/uyenp30/Projects.git)!👩‍💻
+I've worked on several projects using different tools like **Python, Excel, SQL, R, PowerBI, and Tableau**, which you can explore [here](https://github.com/uyenp30/Projects.git)!👩‍💻
 
 In case you're short on time, these are a few of my favorite ones ✨👇
 
